@@ -12,3 +12,4 @@ aquecendo o chat gpt com perguntas sobre atendimento e solicitando que reescreve
 
 ## 🚀 Resultados
 [Ebook atendimento.pdf](https://github.com/user-attachments/files/18264375/Ebook.atendimento.pdf)
+´´´
