@@ -12,8 +12,3 @@ aquecendo o chat gpt com perguntas sobre atendimento e solicitando que reescreve
 
 ## 🚀 Resultados
 
-## git add [Ebook atendimento.pdf](https://github.com/user-attachments/files/18264426/Ebook.atendimento.pdf)
-
-git commit -m "[Ebook atendimento.pdf](https://github.com/user-attachments/files/18264430/Ebook.atendimento.pdf)
-"
-git push origin main
