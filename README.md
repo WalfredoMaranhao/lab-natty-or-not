@@ -11,4 +11,6 @@ chat GPT, DALL-E e Microsoft Word
 aquecendo o chat gpt com perguntas sobre atendimento e solicitando que reescrevesse com o estilo de fala dp presidente Lula
 
 ## 🚀 Resultados
+[Ebook atendimento.pdf](https://github.com/user-attachments/files/18264448/Ebook.atendimento.pdf)
 
+adicionei o pdf
